@@ -1,0 +1,2 @@
+# cognorise
+machine learning internship 
